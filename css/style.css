@@ -95,8 +95,12 @@ ul{ list-style: none; }
 .content{
 	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
+	
 }
 
+.content p{
+	font-weight: 300;
+}
 
 .content a{
 	color: #6D6E71;
@@ -113,6 +117,15 @@ footer img{
 footer p{
 	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 1.5rem;
+	font-size: 1.3rem;
+	font-weight: 300;
+	padding-top: 2rem;
 }
 
+
+.top a{
+	
+	padding-top: 2rem;
+	text-align: center;
+
+}
