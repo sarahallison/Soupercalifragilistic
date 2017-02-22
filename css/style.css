@@ -23,6 +23,10 @@ a{
 
 ul{ list-style: none; }
 
+a:hover {
+	color: black;
+}
+
 
 /*-----------------------  NAVIGATION  -----------------------*/
 
@@ -83,7 +87,7 @@ ul{ list-style: none; }
 
 .border3{
 	border-bottom: .1rem solid #BCBEC0;
-	margin-top: 10rem;
+	margin-top: 4rem;
 }
 
 
