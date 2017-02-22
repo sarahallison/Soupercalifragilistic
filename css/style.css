@@ -8,6 +8,23 @@ h1{
 	font-size: 2.5rem;
 }
 
+h2{
+	padding: 2rem 0;
+	color: #6D6E71;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 2.8rem;
+	text-align: center;
+}
+
+
+
+h4{
+
+	color: #6D6E71;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.2rem;
+	text-align: center;
+}
 
 
 p{
@@ -23,9 +40,6 @@ a{
 
 ul{ list-style: none; }
 
-a:hover {
-	color: black;
-}
 
 
 /*-----------------------  NAVIGATION  -----------------------*/
@@ -172,4 +186,12 @@ footer p{
 	text-align: center;
 	font-size: 1.1rem;
 
+}
+
+
+
+
+
+a:hover {
+	color: black;
 }
