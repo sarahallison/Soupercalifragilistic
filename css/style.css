@@ -41,6 +41,15 @@ a{
 ul{ list-style: none; }
 
 
+h3{
+
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #6D6E71;
+	font-size: 1.8rem;
+	text-align: left;
+}
+
+
 
 /*-----------------------  NAVIGATION  -----------------------*/
 
@@ -169,8 +178,21 @@ ul{ list-style: none; }
 /*-----------------------  RECIPES PAGE  -----------------------*/
 
 
+.recipe p{
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #6D6E71;
+	font-size: .9rem;
+	text-align: left;
+}
 
 
+.recipe ul, ol{
+
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #6D6E71;
+	font-size: .9rem;
+	text-align: left;
+}
 
 /*-----------------------  FOOTER  -----------------------*/
 
